@@ -1,0 +1,20 @@
+{
+  "name": "Romain Fit",
+  "short_name": "Romain Fit",
+  "description": "Suivi entraînement, nutrition et progression 84 → 75 kg.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#08080b",
+  "theme_color": "#09090c",
+  "lang": "fr-FR",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
